@@ -74,7 +74,7 @@ http://127.0.0.1:5000
 ## Running Tests
 
 Run the following command from the project root
-
+cd tests
 python -m pytest
 
 Expected output
